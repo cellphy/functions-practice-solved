@@ -12,7 +12,8 @@
  * last names as array items
  * splitFirstAndLastNames('John Smith') => ['John', 'Smith']
  */
-const splitFirstAndLastNames = (str) => str.split(' ');  
+const splitFirstAndLastNames = (str) => {
+  return str.split(' '); } 
 
 
 splitFirstAndLastNames ('John Smith');
