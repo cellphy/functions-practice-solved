@@ -51,7 +51,7 @@ totalRoomsArea(24, 35, 24);
 const result = function () {  
     console.log(room1 + room2 + room3);
 }
-result (24, 35, 24);
+result();
 
  
 
